@@ -1,7 +1,6 @@
 # Google Cloud : Associate Cloud Engineer対策講座
 
 GCP(Google Cloud Platfrom)のAssciate Cloud Engineer対策講座で紹介したリンク等を紹介いたします。
-![udemy_thumnail_gcp](https://user-images.githubusercontent.com/73625072/187618050-fb1ef9cb-95fa-4708-b906-01711f05aa6c.JPG)
 <img src="https://user-images.githubusercontent.com/73625072/187618050-fb1ef9cb-95fa-4708-b906-01711f05aa6c.JPG" alt="az-900" title="az-900"  height="200">
 
 ## Chapter
