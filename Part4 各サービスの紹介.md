@@ -30,8 +30,27 @@
 - [Load Balancer](https://cloud.google.com/load-balancing)
 - [Cloud CDN](https://cloud.google.com/cdn)
 - [Cloud DNS](https://cloud.google.com/dns)
-- 
 
 ## 5.データベース
+- [Cloud SQL](https://cloud.google.com/sql)
+- [Cloud BigTable](https://cloud.google.com/bigtable)
+- [Firestore](https://cloud.google.com/firestore)
+- [Firebase Realtime Database](https://firebase.google.com/docs/database)
+- [Memorystore](https://cloud.google.com/memorystore/docs)
+- [Cloud Spanner](https://cloud.google.com/spanner)
 
 ## 6.AI・機械学習
+- [Cloud Pub/Sub](https://cloud.google.com/pubsub)
+- [Cloud Dataflow](https://cloud.google.com/dataflow)
+- [Cloud Dataprep](https://cloud.google.com/dataprep)
+- [Cloud Composer](https://cloud.google.com/composer)
+- [BigQuery](https://cloud.google.com/bigquery?hl=ja)
+- [Looker](https://cloud.google.com/looker)
+- [Vertex AI](https://cloud.google.com/vertex-ai)
+- [Vertex AI Workbench](https://cloud.google.com/vertex-ai-workbench)
+- [Vision AI](https://cloud.google.com/vision)
+- [Speech-to-text](https://cloud.google.com/speech-to-text)
+- [Text-to-speech](https://cloud.google.com/text-to-speech)
+- [Natural Language AI](https://cloud.google.com/natural-language)
+- [Translation AI](https://cloud.google.com/translate)
+- [Vision AI](https://cloud.google.com/video-intelligence)
