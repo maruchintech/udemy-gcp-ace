@@ -1,34 +1,35 @@
 # Part5 まとめ
 
 ## 問題解説
-- []
-
-(https://cloud.google.com/iam/docs/understanding-roles)
-(https://cloud.google.com/iam/docs/understanding-custom-roles)
-(https://cloud.google.com/pubsub/docs/overview)
-(https://cloud.google.com/network-connectivity/docs/vpn/concepts/overview)
-(https://cloud.google.com/storage/docs/lifecycle)
-(https://cloud.google.com/storage/docs/storage-classes)
-(https://cloud.google.com/bigtable/docs/overview)
-(https://cloud.google.com/kubernetes-engine/docs/how-to/exposing-apps)
-(https://cloud.google.com/run/docs/quickstarts)
-(https://cloud.google.com/blog/ja/products/containers-kubernetes/when-to-use-google-kubernetes-engine-vs-cloud-run-for-containers)
-(https://cloud.google.com/vpc/docs/create-modify-vpc-networks)
-(https://cloud.google.com/vpc/docs/alias-ip)
-(https://cloud.google.com/compute/docs/ip-addresses/reserve-static-external-ip-address)
-(https://cloud.google.com/vpc/docs/bring-your-own-ip)
-https://cloud.google.com/foundation-toolkit
-https://cloud.google.com/vpc/docs/create-modify-vpc-networks#expand-subnet
-https://cloud.google.com/dns/docs/tutorials/create-domain-tutorial
-https://cloud.google.com/billing/docs/how-to/export-data-bigquery
-https://cloud.google.com/compute/docs/labeling-resources#common-uses
-https://cloud.google.com/compute/docs/labeling-resources#labels_tags
-https://cloud.google.com/bigquery/docs
-https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview
-https://cloud.google.com/storage
-https://cloud.google.com/transfer-appliance/docs/4.0/overview
-https://cloud.google.com/compute/quotas
-https://cloud.google.com/products/calculator
-https://cloud.google.com/compute/docs/sustained-use-discounts
+サンプル問題内に掲載したリンク集です。
+- [ロールを理解する](https://cloud.google.com/iam/docs/understanding-roles)
+- [カスタムロールを理解する](https://cloud.google.com/iam/docs/understanding-custom-roles)
+- [Cloud Pub/Subの概要](https://cloud.google.com/pubsub/docs/overview)
+- [VPNの概要](https://cloud.google.com/network-connectivity/docs/vpn/concepts/overview)
+- [ライフサイクル管理](https://cloud.google.com/storage/docs/lifecycle)
+- [ストレージクラス](https://cloud.google.com/storage/docs/storage-classes)
+- [Bigtableの概要](https://cloud.google.com/bigtable/docs/overview)
+- [Kubenetes Engine:Apps](https://cloud.google.com/kubernetes-engine/docs/how-to/exposing-apps)
+- [Cloud Runの概要](https://cloud.google.com/run/docs/quickstarts)
+- [KubernetesとCloud Runの違い](https://cloud.google.com/blog/ja/products/containers-kubernetes/when-to-use-google-kubernetes-engine-vs-cloud-run-for-containers)
+- [VPCネットワーク](https://cloud.google.com/vpc/docs/create-modify-vpc-networks)
+- [Alias IP](https://cloud.google.com/vpc/docs/alias-ip)
+- [静的IPアドレス](https://cloud.google.com/compute/docs/ip-addresses/reserve-static-external-ip-address)
+- [Bring Your Own IP](https://cloud.google.com/vpc/docs/bring-your-own-ip)
+- [Foundation Toolkit](https://cloud.google.com/foundation-toolkit)
+- [Subnetの拡張](https://cloud.google.com/vpc/docs/create-modify-vpc-networks#expand-subnet)
+- [ドメイン作成のチュートリアル](https://cloud.google.com/dns/docs/tutorials/create-domain-tutorial)
+- [BigDataクエリへエクスポート](https://cloud.google.com/billing/docs/how-to/export-data-bigquery)
+- [ラベル:ユースケース](https://cloud.google.com/compute/docs/labeling-resources#common-uses)
+- [ラベル:タグとラベル](https://cloud.google.com/compute/docs/labeling-resources#labels_tags)
+- [BigQueryの概要](https://cloud.google.com/bigquery/docs)
+- [Kubernetes:Auto-Pilotモード](https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview)
+- [Cloud Storageの概要](https://cloud.google.com/storage)
+- [Transfer Appliance](https://cloud.google.com/transfer-appliance/docs/4.0/overview)
+- [Computeのクオータ](https://cloud.google.com/compute/quotas)
+- [Pricing Calculator](https://cloud.google.com/products/calculator)
+- [コンピュートの価格:SUD](https://cloud.google.com/compute/docs/sustained-use-discounts)
 
 ## さらなる学習のために
+- [GCP Sketchnote](https://github.com/priyankavergadia/GCPSketchnote) 
+- [Pricing Calculator](https://cloud.google.com/products/calculator)
