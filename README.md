@@ -11,5 +11,5 @@ GCP(Google Cloud Platfrom)のAssciate Cloud Engineer対策講座で紹介した�
 - 5.[Part5 まとめ](https://github.com/maruchintech/udemy-gcp-ace/blob/1a7688e358acae094443b24474c85fe379b933f4/Part5%20%E3%81%BE%E3%81%A8%E3%82%81.md)
 
 ## Link
-[Udemy講座リンク](https://www.udemy.com/course/2022gcp-associate-cloud-engineer-google-cloud/?referralCode=26AD9FD65E32A13FA320)
-[YouTube Link](https://www.youtube.com/c/Maruchintechch?sub_confirmation=1)
+- [Udemy講座リンク](https://www.udemy.com/course/2022gcp-associate-cloud-engineer-google-cloud/?referralCode=26AD9FD65E32A13FA320)
+- [YouTube Link](https://www.youtube.com/c/Maruchintechch?sub_confirmation=1)
